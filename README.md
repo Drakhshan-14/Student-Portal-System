@@ -1,5 +1,5 @@
 # 🎓 Student Portal System
-
+Last updated by Drakhshan - Resolved merge conflict from Branch A and Branch B
 Where attendance excuses go to die 💀
 
 A simple student portal project built for practicing Git & GitHub collaboration workflow.

@@ -1,5 +1,5 @@
 # 🎓 Student Portal System
-
+Last updated by Drakhshan - Branch A
 Where attendance excuses go to die 💀
 
 A simple student portal project built for practicing Git & GitHub collaboration workflow.
@@ -16,3 +16,4 @@ A simple student portal project built for practicing Git & GitHub collaboration 
 ## Team
 Built as part of Open Source Software Development coursework.
 Updated by team member during collaboration activity.
+Last updated by Drakhshan - Branch A
